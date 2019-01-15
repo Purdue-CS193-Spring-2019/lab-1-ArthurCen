@@ -3,5 +3,5 @@
 -Bulleted
 -List
 
-1. No homework for this class
-2. I like a girl who takes this class
+1. No homework for this class.
+2. This is a relaxing class.
